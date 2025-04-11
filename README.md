@@ -1,0 +1,2 @@
+# firstjourney
+Mi primer repositorio
